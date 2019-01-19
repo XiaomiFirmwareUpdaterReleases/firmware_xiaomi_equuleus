@@ -1,6 +1,6 @@
 ## Xiaomi Firmware Packages For Mi 8 Pro (equuleus)
 
-#### Downloads: [![DownloadSF](https://img.shields.io/badge/Download-SourceForge-orange.svg)](https://sourceforge.net/projects/xiaomi-firmware-updater/files/Stable) [![DownloadAFH](https://img.shields.io/badge/Download-AndroidFileHost-brightgreen.svg)](https://www.androidfilehost.com/?w=files&flid=2688046)
+#### Downloads: [![Download](https://img.shields.io/badge/Downloads-Here-orange.svg)](https://xiaomifirmwareupdater.github.io/#stable)
 
 | ID | MIUI Name | Device Name | Codename |
 | --- | --- | --- | --- |
